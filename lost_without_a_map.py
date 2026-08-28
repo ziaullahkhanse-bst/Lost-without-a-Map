@@ -1,5 +1,5 @@
 def maps(a):
-    result = []  # Empty list to store doubled numbers
+    result = []  
     
     for num in a:
         result.append(num * 2)  
