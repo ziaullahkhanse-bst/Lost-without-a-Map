@@ -2,7 +2,7 @@ def maps(a):
     result = []  # Empty list to store doubled numbers
     
     for num in a:
-        result.append(num * 2)  # Multiply each number by 2 and add to result
+        result.append(num * 2)  
     
     return result
 
